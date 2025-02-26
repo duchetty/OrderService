@@ -13,6 +13,7 @@ public class OrderServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OrderServiceApplication.class, args);
 		System.out.println("Welcome to OrderService");
+		System.out.println("Welcome to git example");
 	}	
 	
 }
