@@ -17,6 +17,8 @@ public class OrderServiceApplication {
 		int b=20;
 		int c=a+b;
 		System.out.println(c);
+		System.out.println("30");
+		
 	}	
 	
 }
