@@ -19,6 +19,8 @@ public class OrderServiceApplication {
 		System.out.println(c);
 		System.out.println("30");
 		System.out.println("Complete the example");
+		System.out.println("Compleate");
+		
 		
 	}	
 	
