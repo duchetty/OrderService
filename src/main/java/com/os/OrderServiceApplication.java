@@ -23,6 +23,8 @@ public class OrderServiceApplication {
 		System.out.println("Completed");
 		System.out.println("Completed example of order service");
 		
+		
+		System.out.println("it is an Anagram Program");
 		String s1="listen";
 		String s2="silent";
 		
