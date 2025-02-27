@@ -18,7 +18,7 @@ public class OrderServiceApplication {
 		int c=a+b;
 		System.out.println(" c :"+c);
 		System.out.println("Completed");
-		
+		System.out.println("Completed example of order service");
 		
 	}	
 	
