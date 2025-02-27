@@ -19,7 +19,11 @@ public class OrderServiceApplication {
 		System.out.println(c);
 		System.out.println("30");
 		System.out.println("Complete the example");
+<<<<<<< HEAD
 		System.out.println("Compleate");
+=======
+		System.out.println("Complete the example in Order Service application");
+>>>>>>> b7d404560c4f98390b2c4e00f2064c6c68b3cd7f
 		
 		
 	}	
